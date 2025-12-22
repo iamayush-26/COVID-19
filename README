@@ -1,148 +1,83 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>COVID-19 Data Analysis & Visualization</title>
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            line-height: 1.6;
-            margin: 40px;
-            background-color: #ffffff;
-            color: #333333;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        h1 {
-            border-bottom: 2px solid #eaecef;
-            padding-bottom: 10px;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        code {
-            background-color: #f6f8fa;
-            padding: 2px 6px;
-            border-radius: 4px;
-            font-size: 0.95em;
-        }
-        .section {
-            margin-bottom: 30px;
-        }
-        .author {
-            margin-top: 40px;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
+# 📊 COVID-19 Data Analysis & Visualization
 
-    <h1>📊 COVID-19 Data Analysis & Visualization</h1>
+### Interactive Tableau Dashboards for Insightful Pandemic Analysis
 
-    <div class="section">
-        <h2>📌 Project Overview</h2>
-        <p>
-            This project focuses on analyzing and visualizing <strong>COVID-19 trends</strong> using
-            <strong>Tableau</strong>. The objective is to transform large-scale pandemic data into
-            interactive dashboards that provide actionable insights and support data-driven
-            decision-making.
-        </p>
-        <p>
-            The analysis includes trend identification, anomaly detection, and time-series modeling
-            to extract meaningful patterns from complex datasets.
-        </p>
-    </div>
+---
 
-    <div class="section">
-        <h2>🛠️ Tools & Technologies</h2>
-        <ul>
-            <li>Tableau</li>
-            <li>Statistical Analysis</li>
-            <li>Time-Series Analysis (ARIMA)</li>
-            <li>Data Visualization</li>
-            <li>Interactive Dashboards</li>
-        </ul>
-    </div>
+## 🔍 Project Overview
 
-    <div class="section">
-        <h2>📂 Dataset</h2>
-        <ul>
-            <li>Dataset size: ~500,000+ records</li>
-            <li>Contains COVID-19 case trends and related metrics</li>
-            <li>Data was cleaned, transformed, and optimized prior to visualization</li>
-        </ul>
-    </div>
+This project focuses on analyzing and visualizing **COVID-19 trends** using **Tableau**.  
+The objective is to convert **large-scale pandemic data** into **interactive dashboards** that provide clear, actionable insights for **data-driven and executive-level decision making**.
 
-    <div class="section">
-        <h2>🔍 Key Features</h2>
-        <ul>
-            <li><strong>Interactive dashboards</strong> for trend analysis</li>
-            <li><strong>Statistical methods:</strong>
-                <ul>
-                    <li>Correlation analysis</li>
-                    <li>Rolling averages</li>
-                    <li>Forecasting models</li>
-                </ul>
-            </li>
-            <li><strong>Advanced analytics:</strong>
-                <ul>
-                    <li>Anomaly detection</li>
-                    <li>Clustering</li>
-                    <li>ARIMA time-series decomposition (trend & seasonality)</li>
-                </ul>
-            </li>
-            <li><strong>Optimized data processing:</strong>
-                <ul>
-                    <li>Raw data scripting</li>
-                    <li>Volumetric conversion</li>
-                    <li>Inner joins</li>
-                    <li>Calculated fields</li>
-                </ul>
-            </li>
-            <li><strong>Improved usability:</strong>
-                <ul>
-                    <li>Dashboard navigation actions</li>
-                    <li>Dynamic parameters for user control</li>
-                </ul>
-            </li>
-        </ul>
-    </div>
+The analysis covers statistical trends, anomaly detection, and time-series forecasting to uncover meaningful patterns from complex datasets.
 
-    <div class="section">
-        <h2>🎯 Outcomes</h2>
-        <ul>
-            <li>Converted complex COVID-19 data into clear, actionable insights</li>
-            <li>Enabled executive-level decision support through visual storytelling</li>
-            <li>Improved dashboard usability and analytical efficiency</li>
-        </ul>
-    </div>
+---
 
-    <div class="section">
-        <h2>📸 Dashboard Preview</h2>
-        <p>
-            Add screenshots of your Tableau dashboards here for better visualization and impact.
-        </p>
-    </div>
+## 🛠️ Tools & Technologies
 
-    <div class="section">
-        <h2>🚀 How to Use</h2>
-        <ol>
-            <li>Clone or download the repository</li>
-            <li>Open the Tableau workbook (<code>.twb</code> / <code>.twbx</code>)</li>
-            <li>Use filters, parameters, and dashboard actions to explore insights</li>
-        </ol>
-    </div>
+- Tableau  
+- Statistical Analysis  
+- Time-Series Analysis (ARIMA)  
+- Data Visualization & Dashboard Design  
 
-    <div class="author">
-        <h2>👤 Author</h2>
-        <p>
-            Ayush Kumar Yadav<br>
-            B.Tech – Electronics & Communication Engineering<br>
-            Birla Institute of Technology, Mesra
-        </p>
-    </div>
+---
 
-</body>
-</html>
+## 📂 Dataset Details
+
+- **Size:** ~500,000+ records  
+- COVID-19 case trends and related metrics  
+- Data cleaned, transformed, and optimized before visualization  
+
+---
+
+## 🚀 Key Features
+
+### 📈 Interactive Dashboards
+- Dynamic filters and parameters  
+- Smooth navigation using dashboard actions  
+
+### 📊 Statistical & Analytical Methods
+- Correlation analysis  
+- Rolling averages  
+- Forecasting models  
+
+### 🧠 Advanced Analytics
+- Anomaly detection  
+- Clustering  
+- ARIMA time-series decomposition (trend & seasonality)  
+
+### ⚙️ Data Processing & Optimization
+- Raw data scripting  
+- Volumetric conversions  
+- Inner joins  
+- Calculated fields  
+
+---
+
+## 🎯 Project Outcomes
+
+- Converted complex COVID-19 data into **clear, actionable insights**  
+- Built **executive-ready dashboards** for strategic decision support  
+- Improved dashboard usability and analytical efficiency  
+
+---
+
+## 🖼️ Dashboard Preview
+
+_Add Tableau dashboard screenshots here_
+
+---
+
+## 🧭 How to Use
+
+1. Clone or download this repository  
+2. Open the Tableau workbook (`.twb` / `.twbx`)  
+3. Interact with filters, parameters, and dashboard actions  
+
+---
+
+## 👤 Author
+
+**Ayush Kumar Yadav**  
+B.Tech – Electronics & Communication Engineering  
+Birla Institute of Technology, Mesra
