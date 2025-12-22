@@ -64,7 +64,7 @@ The analysis covers statistical trends, anomaly detection, and time-series forec
 
 ## 🖼️ Dashboard Preview
 
-_Add Tableau dashboard screenshots here_
+
 
 ---
 
@@ -73,11 +73,3 @@ _Add Tableau dashboard screenshots here_
 1. Clone or download this repository  
 2. Open the Tableau workbook (`.twb` / `.twbx`)  
 3. Interact with filters, parameters, and dashboard actions  
-
----
-
-## 👤 Author
-
-**Ayush Kumar Yadav**  
-B.Tech – Electronics & Communication Engineering  
-Birla Institute of Technology, Mesra
