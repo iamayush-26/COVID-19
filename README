@@ -1,0 +1,92 @@
+📊 COVID-19 Data Analysis & Visualization
+📌 Project Overview
+
+This project focuses on analyzing and visualizing COVID-19 trends using Tableau. The goal is to transform large-scale pandemic data into interactive, insightful dashboards that support data-driven decision-making and executive-level understanding.
+
+The analysis covers case trends, anomalies, and time-series patterns to uncover meaningful insights from complex datasets.
+
+🛠️ Tools & Technologies
+
+Tableau
+
+Statistical Analysis
+
+Time-Series Analysis (ARIMA)
+
+Data Visualization
+
+Dashboard Interactivity
+
+📂 Dataset
+
+Size: ~500,000+ records
+
+Data includes COVID-19 case counts, trends over time, and related metrics.
+
+Raw data was cleaned, transformed, and optimized before visualization.
+
+🔍 Key Features
+
+📈 Interactive Dashboards for trend analysis
+
+📊 Statistical Methods:
+
+Correlation analysis
+
+Rolling averages
+
+Forecasting models
+
+🧠 Advanced Analytics:
+
+Anomaly detection
+
+Clustering
+
+ARIMA time-series decomposition (trend & seasonality)
+
+⚙️ Optimized Data Processing:
+
+Raw data scripting
+
+Volumetric conversion
+
+Inner joins
+
+Calculated fields
+
+🧭 Enhanced Usability:
+
+Dashboard navigation actions
+
+Dynamic parameters for user-driven exploration
+
+🎯 Outcomes
+
+Converted complex COVID-19 data into clear, actionable insights
+
+Enabled executive-level decision support through intuitive visual storytelling
+
+Improved analytical efficiency and dashboard usability
+
+📸 Dashboard Preview
+
+(Add screenshots of your Tableau dashboards here)
+
+🚀 How to Use
+
+Download or clone the repository
+
+Open the Tableau workbook (.twb / .twbx)
+
+Interact with filters, parameters, and dashboard actions to explore insights
+
+📌 Future Enhancements
+
+Integration of real-time data sources
+
+Predictive modeling enhancements
+
+Region-wise deep dive analysis
+
+Deployment as a web-embedded dashboard
