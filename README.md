@@ -65,8 +65,8 @@ The analysis covers statistical trends, anomaly detection, and time-series forec
 ## 🖼️ Dashboard Preview
 
 <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/4d6f804a-80fd-42d2-822d-ed5a94c7a8eb" />
-<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/6114c0d2-4122-4e68-b58c-da49616e2848" />
 
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/6114c0d2-4122-4e68-b58c-da49616e2848" />
 
 
 ---
